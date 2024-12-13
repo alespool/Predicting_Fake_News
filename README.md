@@ -93,7 +93,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 ### License
 
 This project is licensed under the MIT License.
-
----
-
-This README gives a comprehensive overview of the project, guiding users on how to get started, what to expect, and how to contribute. To fully utilize this README, ensure that all images referenced (like `confusion_matrix.png`) are created and stored in the appropriate directory.
